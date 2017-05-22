@@ -5,3 +5,14 @@
 	/*border: 1px solid ;*/
 }
 
+.dayCol {
+	background-color: lightyellow;
+	border: 1px solid;
+	margin: 10px;
+}
+
+.btn-info {
+	margin:  10px;
+}
+
+
