@@ -1,0 +1,18 @@
+#weather-data  div {
+
+	margin-left: 20px;
+	size: 300px;
+	/*border: 1px solid ;*/
+}
+
+.dayCol {
+	background-color: lightyellow;
+	border: 1px solid;
+	margin: 10px;
+}
+
+.btn-info {
+	margin:  10px;
+}
+
+
